@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\bin\Debug\netcoreapp3.1\9.7.bin.exe
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\bin\Debug\netcoreapp3.1\9.7.bin.deps.json
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\bin\Debug\netcoreapp3.1\9.7.bin.runtimeconfig.json
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\bin\Debug\netcoreapp3.1\9.7.bin.runtimeconfig.dev.json
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\bin\Debug\netcoreapp3.1\9.7.bin.dll
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\bin\Debug\netcoreapp3.1\9.7.bin.pdb
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\obj\Debug\netcoreapp3.1\9.7.bin.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\obj\Debug\netcoreapp3.1\9.7.bin.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\obj\Debug\netcoreapp3.1\9.7.bin.AssemblyInfo.cs
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\obj\Debug\netcoreapp3.1\9.7.bin.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\obj\Debug\netcoreapp3.1\9.7.bin.dll
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\obj\Debug\netcoreapp3.1\9.7.bin.pdb
+C:\Users\patry\source\repos\9.7.bin\9.7.bin\obj\Debug\netcoreapp3.1\9.7.bin.genruntimeconfig.cache

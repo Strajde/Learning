@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\Tester\Tester\bin\Debug\netcoreapp3.1\Tester.exe
+C:\Users\patry\source\repos\Tester\Tester\bin\Debug\netcoreapp3.1\Tester.deps.json
+C:\Users\patry\source\repos\Tester\Tester\bin\Debug\netcoreapp3.1\Tester.runtimeconfig.json
+C:\Users\patry\source\repos\Tester\Tester\bin\Debug\netcoreapp3.1\Tester.runtimeconfig.dev.json
+C:\Users\patry\source\repos\Tester\Tester\bin\Debug\netcoreapp3.1\Tester.dll
+C:\Users\patry\source\repos\Tester\Tester\bin\Debug\netcoreapp3.1\Tester.pdb
+C:\Users\patry\source\repos\Tester\Tester\obj\Debug\netcoreapp3.1\Tester.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\Tester\Tester\obj\Debug\netcoreapp3.1\Tester.AssemblyInfo.cs
+C:\Users\patry\source\repos\Tester\Tester\obj\Debug\netcoreapp3.1\Tester.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\Tester\Tester\obj\Debug\netcoreapp3.1\Tester.dll
+C:\Users\patry\source\repos\Tester\Tester\obj\Debug\netcoreapp3.1\Tester.pdb
+C:\Users\patry\source\repos\Tester\Tester\obj\Debug\netcoreapp3.1\Tester.genruntimeconfig.cache
+C:\Users\patry\source\repos\Tester\Tester\obj\Debug\netcoreapp3.1\Tester.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\bin\Debug\netcoreapp3.1\ilosc i znak.exe
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\bin\Debug\netcoreapp3.1\ilosc i znak.deps.json
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\bin\Debug\netcoreapp3.1\ilosc i znak.runtimeconfig.json
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\bin\Debug\netcoreapp3.1\ilosc i znak.runtimeconfig.dev.json
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\bin\Debug\netcoreapp3.1\ilosc i znak.dll
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\bin\Debug\netcoreapp3.1\ilosc i znak.pdb
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\obj\Debug\netcoreapp3.1\ilosc i znak.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\obj\Debug\netcoreapp3.1\ilosc i znak.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\obj\Debug\netcoreapp3.1\ilosc i znak.AssemblyInfo.cs
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\obj\Debug\netcoreapp3.1\ilosc i znak.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\obj\Debug\netcoreapp3.1\ilosc i znak.dll
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\obj\Debug\netcoreapp3.1\ilosc i znak.pdb
+C:\Users\patry\source\repos\ilosc i znak\ilosc i znak\obj\Debug\netcoreapp3.1\ilosc i znak.genruntimeconfig.cache

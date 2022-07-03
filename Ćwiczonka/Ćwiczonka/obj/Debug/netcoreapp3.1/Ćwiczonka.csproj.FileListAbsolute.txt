@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\obj\Debug\netcoreapp3.1\Ćwiczonka.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\obj\Debug\netcoreapp3.1\Ćwiczonka.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\obj\Debug\netcoreapp3.1\Ćwiczonka.AssemblyInfo.cs
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\obj\Debug\netcoreapp3.1\Ćwiczonka.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\bin\Debug\netcoreapp3.1\Ćwiczonka.exe
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\bin\Debug\netcoreapp3.1\Ćwiczonka.deps.json
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\bin\Debug\netcoreapp3.1\Ćwiczonka.runtimeconfig.json
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\bin\Debug\netcoreapp3.1\Ćwiczonka.runtimeconfig.dev.json
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\bin\Debug\netcoreapp3.1\Ćwiczonka.dll
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\bin\Debug\netcoreapp3.1\Ćwiczonka.pdb
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\obj\Debug\netcoreapp3.1\Ćwiczonka.dll
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\obj\Debug\netcoreapp3.1\Ćwiczonka.pdb
+C:\Users\patry\source\repos\Ćwiczonka\Ćwiczonka\obj\Debug\netcoreapp3.1\Ćwiczonka.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\bin\Debug\interfejs_graficzny.exe.config
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\bin\Debug\interfejs_graficzny.exe
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\bin\Debug\interfejs_graficzny.pdb
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\obj\Debug\interfejs_graficzny.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\obj\Debug\interfejs_graficzny.Form1.resources
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\obj\Debug\interfejs_graficzny.Properties.Resources.resources
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\obj\Debug\interfejs_graficzny.csproj.GenerateResource.cache
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\obj\Debug\interfejs_graficzny.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\obj\Debug\interfejs_graficzny.exe
+C:\Users\patry\source\repos\interfejs_graficzny\interfejs_graficzny\obj\Debug\interfejs_graficzny.pdb

@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\bin\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.exe
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\bin\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.deps.json
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\bin\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.runtimeconfig.json
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\bin\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.runtimeconfig.dev.json
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\bin\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.dll
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\bin\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.pdb
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\obj\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\obj\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\obj\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.AssemblyInfo.cs
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\obj\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\obj\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.dll
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\obj\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.pdb
+C:\Users\patry\source\repos\suma cyfr rozwiniecia dziesietnego\suma cyfr rozwiniecia dziesietnego\obj\Debug\netcoreapp3.1\suma cyfr rozwiniecia dziesietnego.genruntimeconfig.cache

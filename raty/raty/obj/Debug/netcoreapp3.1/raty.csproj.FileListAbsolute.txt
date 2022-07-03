@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\raty\raty\obj\Debug\netcoreapp3.1\raty.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\raty\raty\obj\Debug\netcoreapp3.1\raty.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\raty\raty\obj\Debug\netcoreapp3.1\raty.AssemblyInfo.cs
+C:\Users\patry\source\repos\raty\raty\obj\Debug\netcoreapp3.1\raty.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\raty\raty\bin\Debug\netcoreapp3.1\raty.exe
+C:\Users\patry\source\repos\raty\raty\bin\Debug\netcoreapp3.1\raty.deps.json
+C:\Users\patry\source\repos\raty\raty\bin\Debug\netcoreapp3.1\raty.runtimeconfig.json
+C:\Users\patry\source\repos\raty\raty\bin\Debug\netcoreapp3.1\raty.runtimeconfig.dev.json
+C:\Users\patry\source\repos\raty\raty\bin\Debug\netcoreapp3.1\raty.dll
+C:\Users\patry\source\repos\raty\raty\bin\Debug\netcoreapp3.1\raty.pdb
+C:\Users\patry\source\repos\raty\raty\obj\Debug\netcoreapp3.1\raty.dll
+C:\Users\patry\source\repos\raty\raty\obj\Debug\netcoreapp3.1\raty.pdb
+C:\Users\patry\source\repos\raty\raty\obj\Debug\netcoreapp3.1\raty.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "napis od konca", "napis od konca\napis od konca.csproj", "{A728981C-770F-439B-B2B9-DF473B2B6257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A728981C-770F-439B-B2B9-DF473B2B6257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A728981C-770F-439B-B2B9-DF473B2B6257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A728981C-770F-439B-B2B9-DF473B2B6257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A728981C-770F-439B-B2B9-DF473B2B6257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C2E4A5-D1AA-4B4E-BB57-12A46727D83E}
+	EndGlobalSection
+EndGlobal

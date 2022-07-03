@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6NeQXuKXnCPeihFrvp2XxyvwwfdQS7SE/fuZHb627w+WdL21WZ+389dydaTTAdP85hMfnvQxSSuLrYzCU9aQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patry\\source\\repos\\semestral\\semestral\\semestral.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

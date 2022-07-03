@@ -1,0 +1,12 @@
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\bin\Debug\netcoreapp3.1\9.6.wlasciwy.exe
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\bin\Debug\netcoreapp3.1\9.6.wlasciwy.deps.json
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\bin\Debug\netcoreapp3.1\9.6.wlasciwy.runtimeconfig.json
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\bin\Debug\netcoreapp3.1\9.6.wlasciwy.runtimeconfig.dev.json
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\bin\Debug\netcoreapp3.1\9.6.wlasciwy.dll
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\bin\Debug\netcoreapp3.1\9.6.wlasciwy.pdb
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\obj\Debug\netcoreapp3.1\9.6.wlasciwy.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\obj\Debug\netcoreapp3.1\9.6.wlasciwy.AssemblyInfo.cs
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\obj\Debug\netcoreapp3.1\9.6.wlasciwy.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\obj\Debug\netcoreapp3.1\9.6.wlasciwy.dll
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\obj\Debug\netcoreapp3.1\9.6.wlasciwy.pdb
+C:\Users\patry\source\repos\9.6.wlasciwy\9.6.wlasciwy\obj\Debug\netcoreapp3.1\9.6.wlasciwy.genruntimeconfig.cache

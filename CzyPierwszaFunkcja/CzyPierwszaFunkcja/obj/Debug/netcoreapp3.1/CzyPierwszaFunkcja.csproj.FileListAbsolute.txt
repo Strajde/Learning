@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\bin\Debug\netcoreapp3.1\CzyPierwszaFunkcja.exe
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\bin\Debug\netcoreapp3.1\CzyPierwszaFunkcja.deps.json
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\bin\Debug\netcoreapp3.1\CzyPierwszaFunkcja.runtimeconfig.json
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\bin\Debug\netcoreapp3.1\CzyPierwszaFunkcja.runtimeconfig.dev.json
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\bin\Debug\netcoreapp3.1\CzyPierwszaFunkcja.dll
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\bin\Debug\netcoreapp3.1\CzyPierwszaFunkcja.pdb
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\obj\Debug\netcoreapp3.1\CzyPierwszaFunkcja.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\obj\Debug\netcoreapp3.1\CzyPierwszaFunkcja.AssemblyInfo.cs
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\obj\Debug\netcoreapp3.1\CzyPierwszaFunkcja.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\obj\Debug\netcoreapp3.1\CzyPierwszaFunkcja.dll
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\obj\Debug\netcoreapp3.1\CzyPierwszaFunkcja.pdb
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\obj\Debug\netcoreapp3.1\CzyPierwszaFunkcja.genruntimeconfig.cache
+C:\Users\patry\source\repos\CzyPierwszaFunkcja\CzyPierwszaFunkcja\obj\Debug\netcoreapp3.1\CzyPierwszaFunkcja.csproj.AssemblyReference.cache

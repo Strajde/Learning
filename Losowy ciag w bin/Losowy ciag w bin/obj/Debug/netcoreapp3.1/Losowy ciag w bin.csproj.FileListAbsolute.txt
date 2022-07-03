@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\bin\Debug\netcoreapp3.1\Losowy ciag w bin.exe
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\bin\Debug\netcoreapp3.1\Losowy ciag w bin.deps.json
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\bin\Debug\netcoreapp3.1\Losowy ciag w bin.runtimeconfig.json
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\bin\Debug\netcoreapp3.1\Losowy ciag w bin.runtimeconfig.dev.json
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\bin\Debug\netcoreapp3.1\Losowy ciag w bin.dll
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\bin\Debug\netcoreapp3.1\Losowy ciag w bin.pdb
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\obj\Debug\netcoreapp3.1\Losowy ciag w bin.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\obj\Debug\netcoreapp3.1\Losowy ciag w bin.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\obj\Debug\netcoreapp3.1\Losowy ciag w bin.AssemblyInfo.cs
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\obj\Debug\netcoreapp3.1\Losowy ciag w bin.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\obj\Debug\netcoreapp3.1\Losowy ciag w bin.dll
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\obj\Debug\netcoreapp3.1\Losowy ciag w bin.pdb
+C:\Users\patry\source\repos\Losowy ciag w bin\Losowy ciag w bin\obj\Debug\netcoreapp3.1\Losowy ciag w bin.genruntimeconfig.cache

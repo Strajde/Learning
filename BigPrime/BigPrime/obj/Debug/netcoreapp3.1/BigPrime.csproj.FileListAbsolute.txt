@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\BigPrime\BigPrime\bin\Debug\netcoreapp3.1\BigPrime.exe
+C:\Users\patry\source\repos\BigPrime\BigPrime\bin\Debug\netcoreapp3.1\BigPrime.deps.json
+C:\Users\patry\source\repos\BigPrime\BigPrime\bin\Debug\netcoreapp3.1\BigPrime.runtimeconfig.json
+C:\Users\patry\source\repos\BigPrime\BigPrime\bin\Debug\netcoreapp3.1\BigPrime.runtimeconfig.dev.json
+C:\Users\patry\source\repos\BigPrime\BigPrime\bin\Debug\netcoreapp3.1\BigPrime.dll
+C:\Users\patry\source\repos\BigPrime\BigPrime\bin\Debug\netcoreapp3.1\BigPrime.pdb
+C:\Users\patry\source\repos\BigPrime\BigPrime\obj\Debug\netcoreapp3.1\BigPrime.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\BigPrime\BigPrime\obj\Debug\netcoreapp3.1\BigPrime.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\BigPrime\BigPrime\obj\Debug\netcoreapp3.1\BigPrime.AssemblyInfo.cs
+C:\Users\patry\source\repos\BigPrime\BigPrime\obj\Debug\netcoreapp3.1\BigPrime.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\BigPrime\BigPrime\obj\Debug\netcoreapp3.1\BigPrime.dll
+C:\Users\patry\source\repos\BigPrime\BigPrime\obj\Debug\netcoreapp3.1\BigPrime.pdb
+C:\Users\patry\source\repos\BigPrime\BigPrime\obj\Debug\netcoreapp3.1\BigPrime.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\bin\Debug\netcoreapp3.1\Tablica + -.exe
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\bin\Debug\netcoreapp3.1\Tablica + -.deps.json
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\bin\Debug\netcoreapp3.1\Tablica + -.runtimeconfig.json
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\bin\Debug\netcoreapp3.1\Tablica + -.runtimeconfig.dev.json
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\bin\Debug\netcoreapp3.1\Tablica + -.dll
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\bin\Debug\netcoreapp3.1\Tablica + -.pdb
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\obj\Debug\netcoreapp3.1\Tablica + -.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\obj\Debug\netcoreapp3.1\Tablica + -.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\obj\Debug\netcoreapp3.1\Tablica + -.AssemblyInfo.cs
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\obj\Debug\netcoreapp3.1\Tablica + -.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\obj\Debug\netcoreapp3.1\Tablica + -.dll
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\obj\Debug\netcoreapp3.1\Tablica + -.pdb
+C:\Users\patry\source\repos\Tablica + -\Tablica + -\obj\Debug\netcoreapp3.1\Tablica + -.genruntimeconfig.cache

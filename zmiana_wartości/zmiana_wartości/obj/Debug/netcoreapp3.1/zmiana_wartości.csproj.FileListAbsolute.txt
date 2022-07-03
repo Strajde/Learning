@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\bin\Debug\netcoreapp3.1\zmiana_wartości.exe
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\bin\Debug\netcoreapp3.1\zmiana_wartości.deps.json
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\bin\Debug\netcoreapp3.1\zmiana_wartości.runtimeconfig.json
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\bin\Debug\netcoreapp3.1\zmiana_wartości.runtimeconfig.dev.json
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\bin\Debug\netcoreapp3.1\zmiana_wartości.dll
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\bin\Debug\netcoreapp3.1\zmiana_wartości.pdb
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\obj\Debug\netcoreapp3.1\zmiana_wartości.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\obj\Debug\netcoreapp3.1\zmiana_wartości.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\obj\Debug\netcoreapp3.1\zmiana_wartości.AssemblyInfo.cs
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\obj\Debug\netcoreapp3.1\zmiana_wartości.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\obj\Debug\netcoreapp3.1\zmiana_wartości.dll
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\obj\Debug\netcoreapp3.1\zmiana_wartości.pdb
+C:\Users\patry\source\repos\zmiana_wartości\zmiana_wartości\obj\Debug\netcoreapp3.1\zmiana_wartości.genruntimeconfig.cache

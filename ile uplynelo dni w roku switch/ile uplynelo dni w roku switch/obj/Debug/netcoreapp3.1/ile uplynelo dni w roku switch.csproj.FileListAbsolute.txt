@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\bin\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.exe
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\bin\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.deps.json
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\bin\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.runtimeconfig.json
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\bin\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.runtimeconfig.dev.json
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\bin\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.dll
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\bin\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.pdb
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\obj\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\obj\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\obj\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.AssemblyInfo.cs
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\obj\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\obj\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.dll
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\obj\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.pdb
+C:\Users\patry\source\repos\ile uplynelo dni w roku switch\ile uplynelo dni w roku switch\obj\Debug\netcoreapp3.1\ile uplynelo dni w roku switch.genruntimeconfig.cache

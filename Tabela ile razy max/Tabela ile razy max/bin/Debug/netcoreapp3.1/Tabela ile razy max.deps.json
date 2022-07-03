@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tabela ile razy max/1.0.0": {
+        "runtime": {
+          "Tabela ile razy max.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabela ile razy max/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

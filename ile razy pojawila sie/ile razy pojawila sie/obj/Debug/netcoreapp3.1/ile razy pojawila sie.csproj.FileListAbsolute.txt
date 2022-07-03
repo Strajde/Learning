@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\bin\Debug\netcoreapp3.1\ile razy pojawila sie.exe
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\bin\Debug\netcoreapp3.1\ile razy pojawila sie.deps.json
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\bin\Debug\netcoreapp3.1\ile razy pojawila sie.runtimeconfig.json
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\bin\Debug\netcoreapp3.1\ile razy pojawila sie.runtimeconfig.dev.json
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\bin\Debug\netcoreapp3.1\ile razy pojawila sie.dll
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\bin\Debug\netcoreapp3.1\ile razy pojawila sie.pdb
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\obj\Debug\netcoreapp3.1\ile razy pojawila sie.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\obj\Debug\netcoreapp3.1\ile razy pojawila sie.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\obj\Debug\netcoreapp3.1\ile razy pojawila sie.AssemblyInfo.cs
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\obj\Debug\netcoreapp3.1\ile razy pojawila sie.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\obj\Debug\netcoreapp3.1\ile razy pojawila sie.dll
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\obj\Debug\netcoreapp3.1\ile razy pojawila sie.pdb
+C:\Users\patry\source\repos\ile razy pojawila sie\ile razy pojawila sie\obj\Debug\netcoreapp3.1\ile razy pojawila sie.genruntimeconfig.cache

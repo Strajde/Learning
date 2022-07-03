@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\bin\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.exe
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\bin\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.deps.json
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\bin\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.runtimeconfig.json
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\bin\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.runtimeconfig.dev.json
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\bin\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.dll
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\bin\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.pdb
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\obj\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\obj\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\obj\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.AssemblyInfo.cs
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\obj\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\obj\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.dll
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\obj\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.pdb
+C:\Users\patry\source\repos\Tabela najpierw parzyste potem nie\Tabela najpierw parzyste potem nie\obj\Debug\netcoreapp3.1\Tabela najpierw parzyste potem nie.genruntimeconfig.cache

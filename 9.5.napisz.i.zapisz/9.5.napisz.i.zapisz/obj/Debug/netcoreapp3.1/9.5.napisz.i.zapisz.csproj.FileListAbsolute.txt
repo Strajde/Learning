@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\bin\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.exe
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\bin\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.deps.json
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\bin\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.runtimeconfig.json
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\bin\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.runtimeconfig.dev.json
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\bin\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.dll
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\bin\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.pdb
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\obj\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\obj\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\obj\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.AssemblyInfo.cs
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\obj\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\obj\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.dll
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\obj\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.pdb
+C:\Users\patry\source\repos\9.5.napisz.i.zapisz\9.5.napisz.i.zapisz\obj\Debug\netcoreapp3.1\9.5.napisz.i.zapisz.genruntimeconfig.cache

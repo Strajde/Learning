@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\bin\Debug\netcoreapp3.1\suma100wartosciLosowych.exe
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\bin\Debug\netcoreapp3.1\suma100wartosciLosowych.deps.json
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\bin\Debug\netcoreapp3.1\suma100wartosciLosowych.runtimeconfig.json
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\bin\Debug\netcoreapp3.1\suma100wartosciLosowych.runtimeconfig.dev.json
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\bin\Debug\netcoreapp3.1\suma100wartosciLosowych.dll
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\bin\Debug\netcoreapp3.1\suma100wartosciLosowych.pdb
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\obj\Debug\netcoreapp3.1\suma100wartosciLosowych.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\obj\Debug\netcoreapp3.1\suma100wartosciLosowych.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\obj\Debug\netcoreapp3.1\suma100wartosciLosowych.AssemblyInfo.cs
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\obj\Debug\netcoreapp3.1\suma100wartosciLosowych.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\obj\Debug\netcoreapp3.1\suma100wartosciLosowych.dll
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\obj\Debug\netcoreapp3.1\suma100wartosciLosowych.pdb
+C:\Users\patry\source\repos\suma100wartosciLosowych\suma100wartosciLosowych\obj\Debug\netcoreapp3.1\suma100wartosciLosowych.genruntimeconfig.cache
