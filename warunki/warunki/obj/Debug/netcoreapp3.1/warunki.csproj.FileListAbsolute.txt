@@ -1,4 +1,0 @@
-C:\Users\patry\source\repos\warunki\warunki\obj\Debug\netcoreapp3.1\warunki.csprojAssemblyReference.cache
-C:\Users\patry\source\repos\warunki\warunki\obj\Debug\netcoreapp3.1\warunki.AssemblyInfoInputs.cache
-C:\Users\patry\source\repos\warunki\warunki\obj\Debug\netcoreapp3.1\warunki.AssemblyInfo.cs
-C:\Users\patry\source\repos\warunki\warunki\obj\Debug\netcoreapp3.1\warunki.csproj.CoreCompileInputs.cache
