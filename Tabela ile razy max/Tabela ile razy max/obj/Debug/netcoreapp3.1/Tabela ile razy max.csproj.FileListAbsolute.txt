@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\bin\Debug\netcoreapp3.1\Tabela ile razy max.exe
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\bin\Debug\netcoreapp3.1\Tabela ile razy max.deps.json
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\bin\Debug\netcoreapp3.1\Tabela ile razy max.runtimeconfig.json
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\bin\Debug\netcoreapp3.1\Tabela ile razy max.runtimeconfig.dev.json
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\bin\Debug\netcoreapp3.1\Tabela ile razy max.dll
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\bin\Debug\netcoreapp3.1\Tabela ile razy max.pdb
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\obj\Debug\netcoreapp3.1\Tabela ile razy max.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\obj\Debug\netcoreapp3.1\Tabela ile razy max.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\obj\Debug\netcoreapp3.1\Tabela ile razy max.AssemblyInfo.cs
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\obj\Debug\netcoreapp3.1\Tabela ile razy max.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\obj\Debug\netcoreapp3.1\Tabela ile razy max.dll
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\obj\Debug\netcoreapp3.1\Tabela ile razy max.pdb
+C:\Users\patry\source\repos\Tabela ile razy max\Tabela ile razy max\obj\Debug\netcoreapp3.1\Tabela ile razy max.genruntimeconfig.cache

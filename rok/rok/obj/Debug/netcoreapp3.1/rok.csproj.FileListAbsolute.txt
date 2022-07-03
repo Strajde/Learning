@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\rok\rok\bin\Debug\netcoreapp3.1\rok.exe
+C:\Users\patry\source\repos\rok\rok\bin\Debug\netcoreapp3.1\rok.deps.json
+C:\Users\patry\source\repos\rok\rok\bin\Debug\netcoreapp3.1\rok.runtimeconfig.json
+C:\Users\patry\source\repos\rok\rok\bin\Debug\netcoreapp3.1\rok.runtimeconfig.dev.json
+C:\Users\patry\source\repos\rok\rok\bin\Debug\netcoreapp3.1\rok.dll
+C:\Users\patry\source\repos\rok\rok\bin\Debug\netcoreapp3.1\rok.pdb
+C:\Users\patry\source\repos\rok\rok\obj\Debug\netcoreapp3.1\rok.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\rok\rok\obj\Debug\netcoreapp3.1\rok.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\rok\rok\obj\Debug\netcoreapp3.1\rok.AssemblyInfo.cs
+C:\Users\patry\source\repos\rok\rok\obj\Debug\netcoreapp3.1\rok.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\rok\rok\obj\Debug\netcoreapp3.1\rok.dll
+C:\Users\patry\source\repos\rok\rok\obj\Debug\netcoreapp3.1\rok.pdb
+C:\Users\patry\source\repos\rok\rok\obj\Debug\netcoreapp3.1\rok.genruntimeconfig.cache

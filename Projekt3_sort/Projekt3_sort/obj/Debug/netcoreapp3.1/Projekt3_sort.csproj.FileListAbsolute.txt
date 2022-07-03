@@ -1,0 +1,14 @@
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\bin\Debug\netcoreapp3.1\Projekt3_sort.exe
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\bin\Debug\netcoreapp3.1\Projekt3_sort.deps.json
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\bin\Debug\netcoreapp3.1\Projekt3_sort.runtimeconfig.json
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\bin\Debug\netcoreapp3.1\Projekt3_sort.runtimeconfig.dev.json
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\bin\Debug\netcoreapp3.1\Projekt3_sort.dll
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\bin\Debug\netcoreapp3.1\Projekt3_sort.pdb
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\obj\Debug\netcoreapp3.1\Projekt3_sort.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\obj\Debug\netcoreapp3.1\Projekt3_sort.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\obj\Debug\netcoreapp3.1\Projekt3_sort.AssemblyInfo.cs
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\obj\Debug\netcoreapp3.1\Projekt3_sort.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\obj\Debug\netcoreapp3.1\Projekt3_sort.dll
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\obj\Debug\netcoreapp3.1\Projekt3_sort.pdb
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\obj\Debug\netcoreapp3.1\Projekt3_sort.genruntimeconfig.cache
+C:\Users\patry\source\repos\Projekt3_sort\Projekt3_sort\obj\Debug\netcoreapp3.1\Projekt3_sort.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\bin\Debug\netcoreapp3.1\9.4.parsuj.exe
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\bin\Debug\netcoreapp3.1\9.4.parsuj.deps.json
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\bin\Debug\netcoreapp3.1\9.4.parsuj.runtimeconfig.json
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\bin\Debug\netcoreapp3.1\9.4.parsuj.runtimeconfig.dev.json
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\bin\Debug\netcoreapp3.1\9.4.parsuj.dll
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\bin\Debug\netcoreapp3.1\9.4.parsuj.pdb
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\obj\Debug\netcoreapp3.1\9.4.parsuj.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\obj\Debug\netcoreapp3.1\9.4.parsuj.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\obj\Debug\netcoreapp3.1\9.4.parsuj.AssemblyInfo.cs
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\obj\Debug\netcoreapp3.1\9.4.parsuj.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\obj\Debug\netcoreapp3.1\9.4.parsuj.dll
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\obj\Debug\netcoreapp3.1\9.4.parsuj.pdb
+C:\Users\patry\source\repos\9.4.parsuj\9.4.parsuj\obj\Debug\netcoreapp3.1\9.4.parsuj.genruntimeconfig.cache

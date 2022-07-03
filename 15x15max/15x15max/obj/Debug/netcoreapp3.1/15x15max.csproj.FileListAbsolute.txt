@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\15x15max\15x15max\bin\Debug\netcoreapp3.1\15x15max.exe
+C:\Users\patry\source\repos\15x15max\15x15max\bin\Debug\netcoreapp3.1\15x15max.deps.json
+C:\Users\patry\source\repos\15x15max\15x15max\bin\Debug\netcoreapp3.1\15x15max.runtimeconfig.json
+C:\Users\patry\source\repos\15x15max\15x15max\bin\Debug\netcoreapp3.1\15x15max.runtimeconfig.dev.json
+C:\Users\patry\source\repos\15x15max\15x15max\bin\Debug\netcoreapp3.1\15x15max.dll
+C:\Users\patry\source\repos\15x15max\15x15max\bin\Debug\netcoreapp3.1\15x15max.pdb
+C:\Users\patry\source\repos\15x15max\15x15max\obj\Debug\netcoreapp3.1\15x15max.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\15x15max\15x15max\obj\Debug\netcoreapp3.1\15x15max.AssemblyInfo.cs
+C:\Users\patry\source\repos\15x15max\15x15max\obj\Debug\netcoreapp3.1\15x15max.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\15x15max\15x15max\obj\Debug\netcoreapp3.1\15x15max.dll
+C:\Users\patry\source\repos\15x15max\15x15max\obj\Debug\netcoreapp3.1\15x15max.pdb
+C:\Users\patry\source\repos\15x15max\15x15max\obj\Debug\netcoreapp3.1\15x15max.genruntimeconfig.cache
+C:\Users\patry\source\repos\15x15max\15x15max\obj\Debug\netcoreapp3.1\15x15max.csprojAssemblyReference.cache

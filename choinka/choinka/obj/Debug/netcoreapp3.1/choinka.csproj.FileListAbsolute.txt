@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\choinka\choinka\bin\Debug\netcoreapp3.1\choinka.exe
+C:\Users\patry\source\repos\choinka\choinka\bin\Debug\netcoreapp3.1\choinka.deps.json
+C:\Users\patry\source\repos\choinka\choinka\bin\Debug\netcoreapp3.1\choinka.runtimeconfig.json
+C:\Users\patry\source\repos\choinka\choinka\bin\Debug\netcoreapp3.1\choinka.runtimeconfig.dev.json
+C:\Users\patry\source\repos\choinka\choinka\bin\Debug\netcoreapp3.1\choinka.dll
+C:\Users\patry\source\repos\choinka\choinka\bin\Debug\netcoreapp3.1\choinka.pdb
+C:\Users\patry\source\repos\choinka\choinka\obj\Debug\netcoreapp3.1\choinka.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\choinka\choinka\obj\Debug\netcoreapp3.1\choinka.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\choinka\choinka\obj\Debug\netcoreapp3.1\choinka.AssemblyInfo.cs
+C:\Users\patry\source\repos\choinka\choinka\obj\Debug\netcoreapp3.1\choinka.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\choinka\choinka\obj\Debug\netcoreapp3.1\choinka.dll
+C:\Users\patry\source\repos\choinka\choinka\obj\Debug\netcoreapp3.1\choinka.pdb
+C:\Users\patry\source\repos\choinka\choinka\obj\Debug\netcoreapp3.1\choinka.genruntimeconfig.cache

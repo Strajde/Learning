@@ -1,0 +1,14 @@
+C:\Users\patry\source\repos\semestral\semestral\bin\Debug\netcoreapp3.1\semestral.exe
+C:\Users\patry\source\repos\semestral\semestral\bin\Debug\netcoreapp3.1\semestral.deps.json
+C:\Users\patry\source\repos\semestral\semestral\bin\Debug\netcoreapp3.1\semestral.runtimeconfig.json
+C:\Users\patry\source\repos\semestral\semestral\bin\Debug\netcoreapp3.1\semestral.runtimeconfig.dev.json
+C:\Users\patry\source\repos\semestral\semestral\bin\Debug\netcoreapp3.1\semestral.dll
+C:\Users\patry\source\repos\semestral\semestral\bin\Debug\netcoreapp3.1\semestral.pdb
+C:\Users\patry\source\repos\semestral\semestral\obj\Debug\netcoreapp3.1\semestral.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\semestral\semestral\obj\Debug\netcoreapp3.1\semestral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\semestral\semestral\obj\Debug\netcoreapp3.1\semestral.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\semestral\semestral\obj\Debug\netcoreapp3.1\semestral.AssemblyInfo.cs
+C:\Users\patry\source\repos\semestral\semestral\obj\Debug\netcoreapp3.1\semestral.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\semestral\semestral\obj\Debug\netcoreapp3.1\semestral.dll
+C:\Users\patry\source\repos\semestral\semestral\obj\Debug\netcoreapp3.1\semestral.pdb
+C:\Users\patry\source\repos\semestral\semestral\obj\Debug\netcoreapp3.1\semestral.genruntimeconfig.cache

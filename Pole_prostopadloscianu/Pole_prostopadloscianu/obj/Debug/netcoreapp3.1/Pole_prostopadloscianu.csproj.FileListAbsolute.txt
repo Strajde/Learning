@@ -1,0 +1,12 @@
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\bin\Debug\netcoreapp3.1\Pole_prostopadloscianu.exe
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\bin\Debug\netcoreapp3.1\Pole_prostopadloscianu.deps.json
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\bin\Debug\netcoreapp3.1\Pole_prostopadloscianu.runtimeconfig.json
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\bin\Debug\netcoreapp3.1\Pole_prostopadloscianu.runtimeconfig.dev.json
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\bin\Debug\netcoreapp3.1\Pole_prostopadloscianu.dll
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\bin\Debug\netcoreapp3.1\Pole_prostopadloscianu.pdb
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\obj\Debug\netcoreapp3.1\Pole_prostopadloscianu.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\obj\Debug\netcoreapp3.1\Pole_prostopadloscianu.AssemblyInfo.cs
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\obj\Debug\netcoreapp3.1\Pole_prostopadloscianu.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\obj\Debug\netcoreapp3.1\Pole_prostopadloscianu.dll
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\obj\Debug\netcoreapp3.1\Pole_prostopadloscianu.pdb
+C:\Users\patry\source\repos\Pole_prostopadloscianu\Pole_prostopadloscianu\obj\Debug\netcoreapp3.1\Pole_prostopadloscianu.genruntimeconfig.cache

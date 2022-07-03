@@ -1,0 +1,12 @@
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\bin\Debug\netcoreapp3.1\czy jest liczba w bin.exe
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\bin\Debug\netcoreapp3.1\czy jest liczba w bin.deps.json
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\bin\Debug\netcoreapp3.1\czy jest liczba w bin.runtimeconfig.json
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\bin\Debug\netcoreapp3.1\czy jest liczba w bin.runtimeconfig.dev.json
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\bin\Debug\netcoreapp3.1\czy jest liczba w bin.dll
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\bin\Debug\netcoreapp3.1\czy jest liczba w bin.pdb
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\obj\Debug\netcoreapp3.1\czy jest liczba w bin.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\obj\Debug\netcoreapp3.1\czy jest liczba w bin.AssemblyInfo.cs
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\obj\Debug\netcoreapp3.1\czy jest liczba w bin.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\obj\Debug\netcoreapp3.1\czy jest liczba w bin.dll
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\obj\Debug\netcoreapp3.1\czy jest liczba w bin.pdb
+C:\Users\patry\source\repos\czy jest liczba w bin\czy jest liczba w bin\obj\Debug\netcoreapp3.1\czy jest liczba w bin.genruntimeconfig.cache

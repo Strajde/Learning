@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\bin\Debug\netcoreapp3.1\podprogram pole prost.exe
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\bin\Debug\netcoreapp3.1\podprogram pole prost.deps.json
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\bin\Debug\netcoreapp3.1\podprogram pole prost.runtimeconfig.json
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\bin\Debug\netcoreapp3.1\podprogram pole prost.runtimeconfig.dev.json
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\bin\Debug\netcoreapp3.1\podprogram pole prost.dll
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\bin\Debug\netcoreapp3.1\podprogram pole prost.pdb
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\obj\Debug\netcoreapp3.1\podprogram pole prost.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\obj\Debug\netcoreapp3.1\podprogram pole prost.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\obj\Debug\netcoreapp3.1\podprogram pole prost.AssemblyInfo.cs
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\obj\Debug\netcoreapp3.1\podprogram pole prost.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\obj\Debug\netcoreapp3.1\podprogram pole prost.dll
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\obj\Debug\netcoreapp3.1\podprogram pole prost.pdb
+C:\Users\patry\source\repos\podprogram pole prost\podprogram pole prost\obj\Debug\netcoreapp3.1\podprogram pole prost.genruntimeconfig.cache

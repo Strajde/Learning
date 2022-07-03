@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\for1-1000\for1-1000\bin\Debug\netcoreapp3.1\for1-1000.exe
+C:\Users\patry\source\repos\for1-1000\for1-1000\bin\Debug\netcoreapp3.1\for1-1000.deps.json
+C:\Users\patry\source\repos\for1-1000\for1-1000\bin\Debug\netcoreapp3.1\for1-1000.runtimeconfig.json
+C:\Users\patry\source\repos\for1-1000\for1-1000\bin\Debug\netcoreapp3.1\for1-1000.runtimeconfig.dev.json
+C:\Users\patry\source\repos\for1-1000\for1-1000\bin\Debug\netcoreapp3.1\for1-1000.dll
+C:\Users\patry\source\repos\for1-1000\for1-1000\bin\Debug\netcoreapp3.1\for1-1000.pdb
+C:\Users\patry\source\repos\for1-1000\for1-1000\obj\Debug\netcoreapp3.1\for1-1000.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\for1-1000\for1-1000\obj\Debug\netcoreapp3.1\for1-1000.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\for1-1000\for1-1000\obj\Debug\netcoreapp3.1\for1-1000.AssemblyInfo.cs
+C:\Users\patry\source\repos\for1-1000\for1-1000\obj\Debug\netcoreapp3.1\for1-1000.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\for1-1000\for1-1000\obj\Debug\netcoreapp3.1\for1-1000.dll
+C:\Users\patry\source\repos\for1-1000\for1-1000\obj\Debug\netcoreapp3.1\for1-1000.pdb
+C:\Users\patry\source\repos\for1-1000\for1-1000\obj\Debug\netcoreapp3.1\for1-1000.genruntimeconfig.cache

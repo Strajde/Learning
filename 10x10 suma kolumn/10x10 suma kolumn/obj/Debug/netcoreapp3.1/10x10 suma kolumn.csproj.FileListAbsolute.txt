@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\bin\Debug\netcoreapp3.1\10x10 suma kolumn.exe
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\bin\Debug\netcoreapp3.1\10x10 suma kolumn.deps.json
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\bin\Debug\netcoreapp3.1\10x10 suma kolumn.runtimeconfig.json
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\bin\Debug\netcoreapp3.1\10x10 suma kolumn.runtimeconfig.dev.json
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\bin\Debug\netcoreapp3.1\10x10 suma kolumn.dll
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\bin\Debug\netcoreapp3.1\10x10 suma kolumn.pdb
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\obj\Debug\netcoreapp3.1\10x10 suma kolumn.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\obj\Debug\netcoreapp3.1\10x10 suma kolumn.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\obj\Debug\netcoreapp3.1\10x10 suma kolumn.AssemblyInfo.cs
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\obj\Debug\netcoreapp3.1\10x10 suma kolumn.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\obj\Debug\netcoreapp3.1\10x10 suma kolumn.dll
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\obj\Debug\netcoreapp3.1\10x10 suma kolumn.pdb
+C:\Users\patry\source\repos\10x10 suma kolumn\10x10 suma kolumn\obj\Debug\netcoreapp3.1\10x10 suma kolumn.genruntimeconfig.cache

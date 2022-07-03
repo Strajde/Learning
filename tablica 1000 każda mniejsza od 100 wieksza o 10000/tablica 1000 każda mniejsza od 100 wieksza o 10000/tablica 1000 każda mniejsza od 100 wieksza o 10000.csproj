@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>tablica_1000_każda_mniejsza_od_100_wieksza_o_10000</RootNamespace>
+  </PropertyGroup>
+
+</Project>

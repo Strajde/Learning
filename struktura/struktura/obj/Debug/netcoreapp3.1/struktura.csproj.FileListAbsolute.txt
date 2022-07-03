@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\struktura\struktura\bin\Debug\netcoreapp3.1\struktura.exe
+C:\Users\patry\source\repos\struktura\struktura\bin\Debug\netcoreapp3.1\struktura.deps.json
+C:\Users\patry\source\repos\struktura\struktura\bin\Debug\netcoreapp3.1\struktura.runtimeconfig.json
+C:\Users\patry\source\repos\struktura\struktura\bin\Debug\netcoreapp3.1\struktura.runtimeconfig.dev.json
+C:\Users\patry\source\repos\struktura\struktura\bin\Debug\netcoreapp3.1\struktura.dll
+C:\Users\patry\source\repos\struktura\struktura\bin\Debug\netcoreapp3.1\struktura.pdb
+C:\Users\patry\source\repos\struktura\struktura\obj\Debug\netcoreapp3.1\struktura.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\struktura\struktura\obj\Debug\netcoreapp3.1\struktura.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\struktura\struktura\obj\Debug\netcoreapp3.1\struktura.AssemblyInfo.cs
+C:\Users\patry\source\repos\struktura\struktura\obj\Debug\netcoreapp3.1\struktura.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\struktura\struktura\obj\Debug\netcoreapp3.1\struktura.dll
+C:\Users\patry\source\repos\struktura\struktura\obj\Debug\netcoreapp3.1\struktura.pdb
+C:\Users\patry\source\repos\struktura\struktura\obj\Debug\netcoreapp3.1\struktura.genruntimeconfig.cache

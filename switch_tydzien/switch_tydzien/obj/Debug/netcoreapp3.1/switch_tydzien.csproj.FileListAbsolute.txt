@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\bin\Debug\netcoreapp3.1\switch_tydzien.exe
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\bin\Debug\netcoreapp3.1\switch_tydzien.deps.json
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\bin\Debug\netcoreapp3.1\switch_tydzien.runtimeconfig.json
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\bin\Debug\netcoreapp3.1\switch_tydzien.runtimeconfig.dev.json
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\bin\Debug\netcoreapp3.1\switch_tydzien.dll
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\bin\Debug\netcoreapp3.1\switch_tydzien.pdb
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\obj\Debug\netcoreapp3.1\switch_tydzien.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\obj\Debug\netcoreapp3.1\switch_tydzien.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\obj\Debug\netcoreapp3.1\switch_tydzien.AssemblyInfo.cs
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\obj\Debug\netcoreapp3.1\switch_tydzien.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\obj\Debug\netcoreapp3.1\switch_tydzien.dll
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\obj\Debug\netcoreapp3.1\switch_tydzien.pdb
+C:\Users\patry\source\repos\switch_tydzien\switch_tydzien\obj\Debug\netcoreapp3.1\switch_tydzien.genruntimeconfig.cache

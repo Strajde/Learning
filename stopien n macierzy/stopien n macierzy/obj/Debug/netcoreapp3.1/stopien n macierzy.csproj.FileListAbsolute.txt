@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\bin\Debug\netcoreapp3.1\stopien n macierzy.exe
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\bin\Debug\netcoreapp3.1\stopien n macierzy.deps.json
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\bin\Debug\netcoreapp3.1\stopien n macierzy.runtimeconfig.json
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\bin\Debug\netcoreapp3.1\stopien n macierzy.runtimeconfig.dev.json
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\bin\Debug\netcoreapp3.1\stopien n macierzy.dll
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\bin\Debug\netcoreapp3.1\stopien n macierzy.pdb
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\obj\Debug\netcoreapp3.1\stopien n macierzy.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\obj\Debug\netcoreapp3.1\stopien n macierzy.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\obj\Debug\netcoreapp3.1\stopien n macierzy.AssemblyInfo.cs
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\obj\Debug\netcoreapp3.1\stopien n macierzy.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\obj\Debug\netcoreapp3.1\stopien n macierzy.dll
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\obj\Debug\netcoreapp3.1\stopien n macierzy.pdb
+C:\Users\patry\source\repos\stopien n macierzy\stopien n macierzy\obj\Debug\netcoreapp3.1\stopien n macierzy.genruntimeconfig.cache

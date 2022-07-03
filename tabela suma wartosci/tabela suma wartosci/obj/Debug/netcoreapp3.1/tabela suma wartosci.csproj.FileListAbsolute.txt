@@ -1,0 +1,13 @@
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\bin\Debug\netcoreapp3.1\tabela suma wartosci.exe
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\bin\Debug\netcoreapp3.1\tabela suma wartosci.deps.json
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\bin\Debug\netcoreapp3.1\tabela suma wartosci.runtimeconfig.json
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\bin\Debug\netcoreapp3.1\tabela suma wartosci.runtimeconfig.dev.json
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\bin\Debug\netcoreapp3.1\tabela suma wartosci.dll
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\bin\Debug\netcoreapp3.1\tabela suma wartosci.pdb
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\obj\Debug\netcoreapp3.1\tabela suma wartosci.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\obj\Debug\netcoreapp3.1\tabela suma wartosci.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\obj\Debug\netcoreapp3.1\tabela suma wartosci.AssemblyInfo.cs
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\obj\Debug\netcoreapp3.1\tabela suma wartosci.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\obj\Debug\netcoreapp3.1\tabela suma wartosci.dll
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\obj\Debug\netcoreapp3.1\tabela suma wartosci.pdb
+C:\Users\patry\source\repos\tabela suma wartosci\tabela suma wartosci\obj\Debug\netcoreapp3.1\tabela suma wartosci.genruntimeconfig.cache

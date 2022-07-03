@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "czypierwsza", "czypierwsza\czypierwsza.csproj", "{CEF04BAB-B5F6-4128-BAC3-F61E9089DC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF04BAB-B5F6-4128-BAC3-F61E9089DC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF04BAB-B5F6-4128-BAC3-F61E9089DC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF04BAB-B5F6-4128-BAC3-F61E9089DC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF04BAB-B5F6-4128-BAC3-F61E9089DC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFA88BBA-58E8-46C7-8942-D71EE7FABBC4}
+	EndGlobalSection
+EndGlobal
